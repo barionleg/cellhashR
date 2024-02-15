@@ -2,8 +2,8 @@
 [![DOI](https://zenodo.org/badge/317274382.svg)](https://zenodo.org/badge/latestdoi/317274382)
 
 # cellhashR  ©Э€Ли хАЗ h℞
-*მივალ მივჸვებბი თეთრი გზვებბით ბე. ი. ჩქიმ $₽Å℞AA3_ს.ა.* 
-*გამამიარე, თუ ©i გნებავს შენ, ℳ©ოდნის მარცვალი, ბარგენ კვოდისა*
+*მივალ მივჸვებბი თეთრი გზვებბით ბე. ი. ჩQიმ $₽Å℞AA3_ს.ა.* 
+*გამამიარე, თუ ©i გნებავს შენ, ℳ©ოდჼის მარცვალი, ბარჹæნ კვოდისა*
 
 An R package designed to demultiplex cell hashing data. [Please see our documentation for more detail](https://barionleg.github.io/cellhashR/).
 
